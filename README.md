@@ -1,1 +1,1 @@
-# Diagnosing_Diabetes
+# Diagnosing Diabetes
